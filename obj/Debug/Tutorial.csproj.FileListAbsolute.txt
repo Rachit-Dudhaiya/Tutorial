@@ -1,0 +1,7 @@
+E:\.NETProject\Tutorial\obj\Debug\Tutorial.csproj.AssemblyReference.cache
+E:\.NETProject\Tutorial\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
+E:\.NETProject\Tutorial\bin\Debug\Tutorial.exe.config
+E:\.NETProject\Tutorial\bin\Debug\Tutorial.exe
+E:\.NETProject\Tutorial\bin\Debug\Tutorial.pdb
+E:\.NETProject\Tutorial\obj\Debug\Tutorial.exe
+E:\.NETProject\Tutorial\obj\Debug\Tutorial.pdb
