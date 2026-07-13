@@ -361,3 +361,20 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+bin/Debug/Tutorial.exe
+bin/Debug/Tutorial.exe.config
+bin/Debug/Tutorial.pdb
+bin/Debug/Tutorial.exe
+bin/Debug/Tutorial.exe.config
+bin/Debug/Tutorial.pdb
+obj/Debug/Tutorial.csproj.CoreCompileInputs.cache
+obj/Debug/Tutorial.csproj.FileListAbsolute.txt
+obj/Debug/Tutorial.exe
+obj/Debug/Tutorial.pdb
+Properties/AssemblyInfo.cs
+bin/Debug/Tutorial.exe
+bin/Debug/Tutorial.exe.config
+bin/Debug/Tutorial.pdb
+Tutorial.csproj
+Tutorial.slnx
+App.config
