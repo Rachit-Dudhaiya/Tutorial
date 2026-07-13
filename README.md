@@ -5,7 +5,7 @@ This repository contains a .NET console application with a series of C# practice
 ## Project structure
 
 - `Program.cs` - application entry point and problem runner
-- `Problem-1.cs` through `Problem-18.cs` - individual problem implementations
+- `Problem/Problem-1.cs` through `Problem-18.cs` - individual problem implementations
 - `Tutorial.cs`,  - helper or additional sample files
 - `Tutorial.csproj` - project file for the .NET application
 
