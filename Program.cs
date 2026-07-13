@@ -25,7 +25,25 @@ namespace Tutorial
 
             // Problem_7.table();
 
-            Problem_8.Upper();
+            //Problem_8.Upper();
+
+            //Problem_9.ToggleCase();
+
+            //Problem_10.digits();
+
+            //Problem_11.gender();
+
+            //Problem_12.print();
+
+            //Problem_13.series();
+
+            //Problem_14.word();
+
+            //Problem_16.pattern();
+
+            //Problem_17.number();
+
+            Problem_18.num();
 
         }
     }
