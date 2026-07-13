@@ -6,7 +6,7 @@ This repository contains a .NET console application with a series of C# practice
 
 - `Program.cs` - application entry point and problem runner
 - `Problem-1.cs` through `Problem-18.cs` - individual problem implementations
-- `Sum.cs`, `Tutorial.cs`, `s.cs` - helper or additional sample files
+- `Tutorial.cs`,  - helper or additional sample files
 - `Tutorial.csproj` - project file for the .NET application
 
 ## How to run
