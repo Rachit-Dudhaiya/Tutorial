@@ -16,7 +16,7 @@ namespace Tutorial
 
             //Problem_2.profile();
 
-            //Problem_3.Even();
+            Problem_3.Even();
 
             //Problem_4.fix();
 
@@ -40,6 +40,8 @@ namespace Tutorial
 
             //Problem_14.word();
 
+            //Problem_15.armstrong();
+
             //Problem_16.pattern();
 
             //Problem_17.number();
@@ -52,7 +54,7 @@ namespace Tutorial
 
             //Problem_21.nnumber();
 
-            Problem_22.prefect();
+            //Problem_22.prefect();
 
         }
     }
