@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Tutorial.Problem;
 
 namespace Tutorial
 {
@@ -43,7 +44,15 @@ namespace Tutorial
 
             //Problem_17.number();
 
-            Problem_18.num();
+            //Problem_18.num();
+
+            //Problem_19.pyramid();
+
+            //Problem_20.number();
+
+            //Problem_21.nnumber();
+
+            Problem_22.prefect();
 
         }
     }
