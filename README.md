@@ -1,4 +1,4 @@
-# Tutorial
+# C# Tutorial
 
 This repository contains a .NET console application with a series of C# practice problems.
 
